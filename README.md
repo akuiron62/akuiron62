@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuiron62" alt="akuiron62" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Django**
+- 🌱 I’m currently learning **symfony, Django**
 
 - 👨‍💻 All of my projects are available at [https://www.akuiron.com](https://www.akuiron.com)
 
 - 📝 I regulary write articles on [https://akuiron.com/blog/](https://akuiron.com/blog/)
 
-- 💬 Ask me about **react, symfony, reactnative**
+- 💬 Ask me about **react, symfony, reactnative, wordpress**
 
 - 📫 How to reach me **portfolio@akuiron.com**
 
